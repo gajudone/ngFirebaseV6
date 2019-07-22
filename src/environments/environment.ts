@@ -7,7 +7,7 @@ export const environment = {
   production: true,
   firebase: {
     apiKey: "AIzaSyDEDGFAYcJjr13LzCL16aI0Mp_f39wS-2k",
-    authDomain: "ngfirebase-cc899.firebaseapp.com",
+    authDomain: "https://gajudone.github.io/ngFirebaseV6/login",
     databaseURL: "https://ngfirebase-cc899.firebaseio.com",
     projectId: "ngfirebase-cc899",
     storageBucket: "",
